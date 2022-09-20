@@ -6,9 +6,9 @@ body {
 }
 
 div#interface {
-    width: 900px;
+    width: 1200px;
     background-color: #ffffff;
-    margin: -20px auto 0px auto;
+    margin: -20px auto;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.5) ;
     padding: 10px ;
 }
@@ -19,10 +19,9 @@ p {
 }
 header#cabecalho img#icone{
     position: absolute;
-    left: 950px;
+    left: 1100px;
     top: 40px;
 }
-
 
 /* Formataçao de imagens */
 
@@ -68,7 +67,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 500px;
+    left: 600px;
 
 }
 
